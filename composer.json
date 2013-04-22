@@ -1,5 +1,5 @@
 {
-    "name": "elkuku/ConsoleTable",
+    "name": "elkuku/console-table",
     "description": "A table generator class for the PHP CLI.",
     "keywords": [ "console" ],
     "type": "library",
