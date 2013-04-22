@@ -20,7 +20,7 @@
         },
         {
             "name": "Nikolai Plath",
-            "email": "der.elkuku@gmail.com"
+            "homepage": "https://github.com/elkuku"
         }
     ],
     "require": {
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Elkuku": "src"
+            "Elkuku": "src/"
         }
     }
 }
