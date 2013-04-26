@@ -57,7 +57,7 @@ class ConsoleTable
 {
 	const HORIZONTAL_RULE = 1;
 
-	const ALIGN_LEFT = -1;
+	const ALIGN_LEFT = 0;
 
 	const ALIGN_CENTER = -1;
 
